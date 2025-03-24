@@ -12,9 +12,9 @@ npm install
 
 -(CSS) 
 
--[EJS](https://ejs.co/) 
-
 -(JavaScript)
+
+-[EJS](https://ejs.co/) 
 
 -[mongoose](https://mongoosejs.com/) 
 
